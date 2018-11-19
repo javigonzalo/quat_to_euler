@@ -11,5 +11,5 @@ conda install -c conda-forge xxx
 or
 
 ```sh
-pip install --user numpy xxx-xxx
+pip install --user https://github.com/javigonzalo/quat_to_euler/master.zip
 ```
