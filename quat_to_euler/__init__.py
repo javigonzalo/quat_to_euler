@@ -3,7 +3,7 @@
 
 #import numpy as np
 import math
-
+import numpy as np
 from quaternion import (quaternion, as_float_array)
 
 __doc_title__ = "Quaternion to Euler for NumPy-quaternion"
