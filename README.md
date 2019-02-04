@@ -10,7 +10,11 @@ moble numpy-quaternion.
 ```sh
 conda install -c conda-forge xxx
 ```
+or
 
+```sh
+sudo python3 -m pip install git+https://github.com/javigonzalo/quat_to_euler.git
+```
 or
 
 ```sh
