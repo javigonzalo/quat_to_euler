@@ -25,6 +25,7 @@ pip install --user https://github.com/javigonzalo/quat_to_euler/master.git
 install pandas
 install numpy
 install numba
+install upgrade colorama
 install moble numpy quaternion
 install javigonzalo quat_to_euler
 install matplotlib
