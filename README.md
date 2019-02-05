@@ -20,3 +20,13 @@ or
 ```sh
 pip install --user https://github.com/javigonzalo/quat_to_euler/master.git
 ```
+## Requeriments
+```sh
+install pandas
+install numpy
+install numba
+install moble numpy quaternion
+install javigonzalo quat_to_euler
+install matplotlib
+install adjustText 
+```
