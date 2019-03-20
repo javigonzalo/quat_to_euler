@@ -26,8 +26,8 @@ install pandas
 install numpy
 install numba
 install upgrade colorama
-install moble numpy quaternion
-install javigonzalo quat_to_euler
+install numpy numpy-quaternion
+sudo python3 -m pip install git+https://github.com/javigonzalo/quat_to_euler.git
 install matplotlib
 install adjustText 
 ```
